@@ -1,0 +1,463 @@
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.exe
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\image\5519785.jpg
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\image\add-2935429_1280.png
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\image\undraw_Job_hunt_re_q203.png
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\Converts\StringToDateConverter.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.dll.config
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.deps.json
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.runtimeconfig.json
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.pdb
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\envdte.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\MaterialDesignColors.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\MaterialDesignThemes.Wpf.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\Microsoft.VisualStudio.Interop.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\Microsoft.Xaml.Behaviors.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.csproj.AssemblyReference.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Style\PagingButtonStyle.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Style\UCstyle.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Style\WinStyle.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChinhSuaDSCongViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChiTietCongViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChiTietLichSuThueTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChiTietTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DangBai.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DanhGiaTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ProfileTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ShowDialogCustom.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ThoHoanThanhCongViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ThoMain.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCCViecTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhGia.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachCongViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSCongViecTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCHome.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCSuaCV.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThueTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTimViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTrangChu.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCViewDG.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UserPopup.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UserMain.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\XacNhanThueTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\XuatHoaDon.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL_Content.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL_MarkupCompile.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL_MarkupCompile.lref
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\App.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChinhSuaDSCongViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChiTietCongViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChiTietLichSuThueTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChiTietTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DangBai.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DanhGiaTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ProfileTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ShowDialogCustom.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ThoHoanThanhCongViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ThoMain.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCCViecTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhGia.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachCongViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSCongViecTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCHome.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCSuaCV.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThueTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTimViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTrangChu.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCViewDG.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UserPopup.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UserMain.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\XacNhanThueTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\XuatHoaDon.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.g.resources
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.AssemblyInfoInputs.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.AssemblyInfo.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.csproj.CoreCompileInputs.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.csproj.CopyComplete
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\refint\DoAnTGVL.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.pdb
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.genruntimeconfig.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ref\DoAnTGVL.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.csproj.AssemblyReference.cache
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Style\PagingButtonStyle.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Style\UCstyle.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Style\WinStyle.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhGia.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachCongViec.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSCongViecTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCHome.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCSuaCV.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThueTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTimViec.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UserPopup.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\App.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL_Content.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\GeneratedInternalTypeHelper.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL_MarkupCompile.cache
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL_MarkupCompile.lref
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\refint\DoAnTGVL.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.pdb
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThue.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThueTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.exe
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\image\5519785.jpg
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\image\add-2935429_1280.png
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\image\undraw_Job_hunt_re_q203.png
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\Converts\StringToDateConverter.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.dll.config
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.deps.json
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.runtimeconfig.json
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.pdb
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\envdte.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\MaterialDesignColors.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\MaterialDesignThemes.Wpf.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\Microsoft.VisualStudio.Interop.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\Microsoft.Xaml.Behaviors.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\System.Data.SqlClient.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\App.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\MainWindow.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhGia.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachCongViec.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSCongViecTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThue.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThueTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCHome.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCSuaCV.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThueTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTimViec.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UserPopup.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.g.resources
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.AssemblyInfoInputs.cache
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.AssemblyInfo.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.csproj.CoreCompileInputs.cache
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.sourcelink.json
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.csproj.Up2Date
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.genruntimeconfig.cache
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\ref\DoAnTGVL.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThue.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThueTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThue.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThueTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSDanhGiaTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSDanhGiaTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSDanhGiaTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGVL\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSDanhGiaTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThoPhanHoi.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThoPhanHoi.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.exe
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\image\5519785.jpg
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\image\add-2935429_1280.png
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\image\undraw_Job_hunt_re_q203.png
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\Converts\StringToDateConverter.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.dll.config
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.deps.json
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.runtimeconfig.json
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.pdb
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\envdte.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\MaterialDesignColors.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\MaterialDesignThemes.Wpf.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\Microsoft.VisualStudio.Interop.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\Microsoft.Xaml.Behaviors.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.csproj.AssemblyReference.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Style\PagingButtonStyle.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Style\UCstyle.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Style\WinStyle.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChinhSuaDSCongViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChiTietCongViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChiTietLichSuThueTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChiTietTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DangBai.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DanhGiaTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ProfileTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ShowDialogCustom.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ThoHoanThanhCongViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ThoMain.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhGia.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachCongViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSCongViecTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSDanhGiaTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThue.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThueTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCHome.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCSuaCV.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThoPhanHoi.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThueTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTimViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTrangChu.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCViewDG.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UserPopup.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UserMain.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\XacNhanThueTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\XuatHoaDon.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL_Content.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL_MarkupCompile.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL_MarkupCompile.lref
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\App.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChinhSuaDSCongViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChiTietCongViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChiTietLichSuThueTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ChiTietTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DangBai.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DanhGiaTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ProfileTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ShowDialogCustom.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ThoHoanThanhCongViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ThoMain.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhGia.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachCongViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSCongViecTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSDanhGiaTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThue.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThueTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCHome.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCSuaCV.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThoPhanHoi.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThueTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTimViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTrangChu.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCViewDG.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UserPopup.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UserMain.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\XacNhanThueTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\XuatHoaDon.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.g.resources
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.AssemblyInfoInputs.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.AssemblyInfo.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.csproj.CoreCompileInputs.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.csproj.CopyComplete
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\refint\DoAnTGVL.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.pdb
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.genruntimeconfig.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ref\DoAnTGVL.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ThongBaoThue.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTBaoThue.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ThongBaoThue.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTBaoThue.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTBaoThue.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTBaoThue.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.exe
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\image\5519785.jpg
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\image\add-2935429_1280.png
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\image\undraw_Job_hunt_re_q203.png
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\Converts\StringToDateConverter.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.dll.config
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.deps.json
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.runtimeconfig.json
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\DoAnTGVL.pdb
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\envdte.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\MaterialDesignColors.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\MaterialDesignThemes.Wpf.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\Microsoft.VisualStudio.Interop.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\Microsoft.Xaml.Behaviors.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.csproj.AssemblyReference.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Style\PagingButtonStyle.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Style\UCstyle.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Style\WinStyle.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhGia.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachCongViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSCongViecTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSDanhGiaTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThue.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThueTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCHome.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCSuaCV.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTBaoThue.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThoPhanHoi.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThueTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTimViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UserPopup.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL_Content.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL_MarkupCompile.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL_MarkupCompile.lref
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\App.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhGia.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachCongViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDanhSachTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSCongViecTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSDanhGiaTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThue.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSThueTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCHome.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCSuaCV.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTBaoThue.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThoPhanHoi.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThueTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTimViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UserPopup.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.g.resources
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.AssemblyInfoInputs.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.AssemblyInfo.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.csproj.CoreCompileInputs.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.csproj.CopyComplete
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\refint\DoAnTGVL.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.pdb
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\DoAnTGVL.genruntimeconfig.cache
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\ref\DoAnTGVL.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTBaoNhanViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTBaoNhanViec.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTBaoNhanViec.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTBaoNhanViec.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCQuanLyBaiDang.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCQuanLyBaiDang.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSBaiDangUser.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSBaiDangUser.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSBaiDangUser.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCQuanLyBaiDang.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCDSBaiDangUser.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCQuanLyBaiDang.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\LiveCharts.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\bin\Debug\net6.0-windows7.0\LiveCharts.Wpf.dll
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongKe.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongKe.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongKeCV.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongKeCV.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\LiveCharts.Wpf.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\bin\Debug\net6.0-windows7.0\LiveCharts.dll
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongKe.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongKeCV.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongKe.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongKeCV.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTienDoViecTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTienDoViecTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTienDoViecTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCTienDoViecTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongKeTN.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongKeTN.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongKeTN.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongKeTN.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongTinUser.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongTinUser.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongTinUser.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongTinUser.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChinhSuaBaiDang.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChinhSuaDSCongViec.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietCongViec.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietLichSuThueTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietLichSuViecTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietThongBao.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\DangBai.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\DanhGiaTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\LichBan.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ProfileTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ShowDialogCustom.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThoHoanThanhCongViec.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThoMain.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThongBaoNhanTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThongBaoThue.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\UserMain.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\XacNhanThueTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChinhSuaBaiDang.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChinhSuaDSCongViec.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietCongViec.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietLichSuThueTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietLichSuViecTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietThongBao.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\DangBai.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\DanhGiaTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\LichBan.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ProfileTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ShowDialogCustom.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThoHoanThanhCongViec.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThoMain.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThongBaoNhanTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThongBaoThue.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\UserMain.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\XacNhanThueTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChinhSuaBaiDang.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChinhSuaDSCongViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietCongViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietLichSuThueTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietLichSuViecTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietThongBao.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\DangBai.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\DanhGiaTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\LichBan.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ProfileTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ShowDialogCustom.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThoHoanThanhCongViec.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThoMain.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThongBaoNhanTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThongBaoThue.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\UserMain.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\XacNhanThueTho.g.cs
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChinhSuaBaiDang.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChinhSuaDSCongViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietCongViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietLichSuThueTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietLichSuViecTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ChiTietThongBao.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\DangBai.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\DanhGiaTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\LichBan.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ProfileTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ShowDialogCustom.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThoHoanThanhCongViec.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThoMain.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThongBaoNhanTho.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\ThongBaoThue.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\UserMain.baml
+C:\Users\DELL 3500\Desktop\Winform\DoAnTGTho\DoAnTGVL\obj\Debug\net6.0-windows7.0\Window\XacNhanThueTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCHienThongTinTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongTinTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\WINDOW\ChinhSuaThongTinTho.g.cs
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCHienThongTinTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\UControls\UCThongTinTho.baml
+D:\WinForm\DoAnTGVL\DoAnTGVL\obj\Debug\net6.0-windows7.0\WINDOW\ChinhSuaThongTinTho.baml

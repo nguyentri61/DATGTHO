@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="DoAnTGVL.UControls.UCDSThueTho"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DoAnTGVL.UControls"
+             mc:Ignorable="d" 
+             Background="White"
+             d:DesignHeight="700" d:DesignWidth="1300">
+    
+    <Grid>
+        
+        <TabControl x:Name="TabTrangThai">
+
+            <TabItem x:Name="Tabcxn" Header="Chờ xác nhận" Loaded="Tab_Loaded">
+                <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.ColumnSpan="2">
+                    <StackPanel x:Name="staChoXacNhan"></StackPanel>
+                </ScrollViewer>
+            </TabItem>
+
+            <TabItem x:Name="Tabcth" Header="Chưa thực hiện" Loaded="Tab_Loaded">
+                <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.ColumnSpan="2">
+                    <StackPanel x:Name="staChuaThucHien"></StackPanel>
+                </ScrollViewer>
+            </TabItem>
+
+            <TabItem x:Name="Tabdth" Header="Đang thực hiện" >
+                <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.ColumnSpan="2">
+                    <StackPanel x:Name="staDangThucHien"></StackPanel>
+                </ScrollViewer>
+            </TabItem>
+
+            <TabItem x:Name="Tabdht" Header="Đã hoàn thành" >
+                <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.ColumnSpan="2">
+                    <StackPanel x:Name="staHoanThanh"></StackPanel>
+                </ScrollViewer>
+            </TabItem>
+
+        </TabControl>
+
+    </Grid>
+</UserControl>
