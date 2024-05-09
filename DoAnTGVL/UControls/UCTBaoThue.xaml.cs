@@ -40,7 +40,7 @@ namespace DoAnTGVL.UControls
             if (thongbao.ShowDialog() == true)
             {
                 bUSThongBaoThue.NhanViec(congviec, tho);
-                new ShowDialogCustom("Nhận việc thành công!", ShowDialogCustom.OK).Show();
+                new ShowDialogCustom("Nhận việc thành công!", ShowDialogCustom.OK).ShowDialog();
             }
             Window parentWindow = Window.GetWindow(this);
 
@@ -59,7 +59,7 @@ namespace DoAnTGVL.UControls
             if (thongbao.ShowDialog() == true)
             {
                 bUSThongBaoThue.HuyViec(congviec, tho);
-                new ShowDialogCustom("Hủy việc thành công!", ShowDialogCustom.OK).Show();
+                new ShowDialogCustom("Hủy việc thành công!", ShowDialogCustom.OK).ShowDialog();
             }
             Window parentWindow = Window.GetWindow(this);
 

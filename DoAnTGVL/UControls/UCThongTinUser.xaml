@@ -71,7 +71,7 @@
                     <GroupBox Header="Ngày sinh" FontSize="20" Margin="0 25 0 0" BorderBrush="#fffbd5" Style="{DynamicResource d}" Foreground="#fffbd5">
                         <DatePicker Margin="5 5 0 5" FontSize="20" Height="50" Width="320" BorderThickness="0" Foreground="Black" Padding="2"
                                         SelectedDate="{Binding Dob, StringFormat={}{0:mm/dd/yyy} ,Converter={StaticResource StringToDateConverter}, UpdateSourceTrigger=PropertyChanged}"
-                                            Style="{StaticResource MaterialDesignFloatingHintDatePicker}" />
+                                            Style="{StaticResource MaterialDesignFloatingHintDatePicker}"  />
                     </GroupBox>
                 </StackPanel>
 
