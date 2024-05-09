@@ -39,13 +39,7 @@ namespace DoAnTGVL
             mainWindow.Show();
             Close();
         }
-        public void mnuSuaCV_Click(object sender, RoutedEventArgs e)
-        {
-            CurUC = new UCSuaCV();
-            gridMainWin.Children.Remove(PreUC);
-            PreUC = CurUC;
-            gridMainWin.Children.Add(CurUC);
-        }
+        
         private void ButtonOpenMenu_Click(object sender, RoutedEventArgs e)
         {
             ButtonCloseMenu.Visibility = Visibility.Visible;

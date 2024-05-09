@@ -10,9 +10,14 @@
   <ItemGroup>
     <None Remove="image\5519785.jpg" />
     <None Remove="image\add-2935429_1280.png" />
+    <None Remove="image\engineer.png" />
+    <None Remove="image\male-teacher.png" />
     <None Remove="image\man.jpg" />
+    <None Remove="image\mechanic.png" />
+    <None Remove="image\plumber.png" />
     <None Remove="image\undraw_Job_hunt_re_q203.png" />
     <None Remove="image\user.png" />
+    <None Remove="image\worker.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,12 +30,23 @@
     <Content Include="image\undraw_Job_hunt_re_q203.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Resource Include="image\engineer.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="image\male-teacher.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="image\man.jpg">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="image\mechanic.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="image\plumber.png" />
     <Resource Include="image\user.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="image\worker.png" />
   </ItemGroup>
 
   <ItemGroup>

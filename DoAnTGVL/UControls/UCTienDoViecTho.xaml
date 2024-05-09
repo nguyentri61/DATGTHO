@@ -21,7 +21,7 @@
             <!--Loc bang-->
             <StackPanel Grid.Row="0" Orientation="Horizontal" VerticalAlignment="Center">
                 <CheckBox x:Name="chbChuaThucHien" Content="Chưa thực hiện" Foreground="#707070" FontSize="20" 
-                            materialDesign:CheckBoxAssist.CheckBoxSize="25" Margin="112 0 0 0"
+                            materialDesign:CheckBoxAssist.CheckBoxSize="25" Margin="120 0 0 0"
                             IsChecked="{Binding Path = ChuaThucHien, UpdateSourceTrigger=PropertyChanged}" Click="chboxChuaThucHien_Click" />       
 
                 <CheckBox x:Name="chbDangThuchien" Content="Đang thực hiện" Foreground="#707070" FontSize="20" Margin="100 0 100 0"
@@ -56,12 +56,12 @@
                                  VerticalAlignment="Top" Grid.RowSpan="2"  KeyUp="txbTimKiem_KeyUp" />
                 </Grid>
                 <Button x:Name="ngayBanbutton"
-                        Margin="80,0,0,0"
+                        Margin="80,0,0,0" Width="120" Height="40"
                         materialDesign:ButtonAssist.CornerRadius="10"
                          IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
                         Style="{StaticResource MaterialDesignRaisedButton}"
-                        ToolTip="MaterialDesignRaisedButton with Round Corners" Click="ngayBanbutton_Click">
-                    <TextBlock Text="Ngày bận" />
+                        ToolTip="Xem lịch bận" Click="ngayBanbutton_Click">
+                    <TextBlock Text="Ngày bận" FontSize="18" />
                 </Button>
             </StackPanel>
         </materialDesign:ColorZone>

@@ -24,7 +24,7 @@ namespace DoAnTGVL
     public partial class ChinhSuaDSCongViec : Window
     {
         CongViec congviec;
-        Tho tho;
+        Tho tho; 
         public ChinhSuaDSCongViec(CongViec congviec, Tho tho)
         {
             InitializeComponent();

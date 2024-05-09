@@ -14,6 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace DoAnTGVL.UControls
 {
@@ -31,6 +32,7 @@ namespace DoAnTGVL.UControls
             
             InitializeComponent();
             this.DataContext = tho;
+            SetAvatarImage();
         }
         public void btnXemChiTiet_Click(object sender, RoutedEventArgs e)
         {
@@ -42,6 +44,43 @@ namespace DoAnTGVL.UControls
         {
             BUSDanhSachTho bUSDanhSachTho = new BUSDanhSachTho();
             bUSDanhSachTho.ThemXoaDSYeuThich(tho,user);
+        }
+
+        private void SetAvatarImage()
+        {
+            string imagePath;
+
+            switch (tho.LinhVuc)
+            {
+                case "Gia Sư":
+                    imagePath = "pack://application:,,,/image/male-teacher.png";
+                    break;
+                case "Sửa nhà":
+                    imagePath = "pack://application:,,,/image/engineer.png";
+                    break;
+                case "Bảo trì":
+                    imagePath = "pack://application:,,,/image/worker.png";
+                    break;
+                case "Điện tử":
+                    imagePath = "pack://application:,,,/image/mechanic.png";
+                    break;
+                case "Điện nước":
+                    imagePath = "pack://application:,,,/image/plumber.png";
+                    break;
+                case "Điện lạnh":
+                    imagePath = "pack://application:,,,/image/plumber.png";
+                    break;
+                default:
+                    imagePath = "pack://application:,,,/image/man.jpg"; 
+                    break;
+            }
+
+            BitmapImage bitmap = new BitmapImage();
+            bitmap.BeginInit();
+            bitmap.UriSource = new Uri(imagePath);
+            bitmap.EndInit();
+
+            imageAva.ImageSource = bitmap;
         }
     }
 }

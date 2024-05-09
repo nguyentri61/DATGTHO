@@ -41,7 +41,7 @@
 
                 <Ellipse Grid.Row="0" Width="150" Height="170" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.557,0.71">
                     <Ellipse.Fill>
-                        <ImageBrush ImageSource="/image/man.jpg"/>
+                        <ImageBrush x:Name="imageAva"/>
                     </Ellipse.Fill>
                 </Ellipse>
 

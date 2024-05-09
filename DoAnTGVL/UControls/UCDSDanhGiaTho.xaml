@@ -17,7 +17,7 @@
 
         <Grid Grid.Row="0">
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="200"></ColumnDefinition>
+                <ColumnDefinition Width="250"></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
             </Grid.ColumnDefinitions>
 
@@ -59,8 +59,8 @@
                     </StackPanel>
                 </materialDesign:ColorZone>
 
-                <CheckBox Content="Có hình ảnh"
-                            FontSize="20"
+                <CheckBox Content="Có hình ảnh" 
+                            FontSize="20" 
                             Style="{StaticResource MaterialDesignCheckBox}" 
                             Height="30" Grid.Row="1"
                             IsChecked="{Binding CoAnh}"

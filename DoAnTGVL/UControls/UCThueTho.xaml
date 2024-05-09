@@ -33,8 +33,8 @@ Mode="PrimaryLight" Background="#FFF4F4F4">
       Content="{materialDesign:PackIcon Kind=Bell}"
       Style="{StaticResource MaterialDesignActionToggleButton}"
       ToolTip="MaterialDesignActionLightToggleButton" Margin="50,0,0,0" Click="ToggleButton_Click" />
-                    <Button x:Name="reload_button" Style="{DynamicResource MaterialDesignToolButton}" Click="reload_button_Click">
-                        <materialDesign:PackIcon Kind="Reload" Height="25" Width="35" Margin="10 0 0 0"/>
+                    <Button x:Name="reload_button" Style="{DynamicResource MaterialDesignToolButton}" Margin="30 0 0 0" Click="reload_button_Click">
+                        <materialDesign:PackIcon Kind="Reload" Height="25" Width="35" />
                     </Button>
                     <Menu Margin="20 0 0 0" Cursor="Hand" VerticalAlignment="Center" FontSize="20"  >
                         <MenuItem Header="Điện nước">
@@ -137,7 +137,7 @@ Mode="PrimaryLight" Background="#FFF4F4F4">
                         materialDesign:HintAssist.Hint="Khu vực"
                         x:Name="cboKhuVuc"
                         materialDesign:TextFieldAssist.HasClearButton="True"
-                        Width="200" Height="50" Margin="125,0,0,0"
+                        Width="200" Height="50" Margin="155,0,0,0"
                         FontSize="20" BorderThickness="0"
                         IsEditable="True" SelectionChanged="fil_SelectionChanged"
                        

@@ -80,7 +80,7 @@ namespace DoAnTGVL.DAO
 
         public void XoaBaiDang(int ID) 
         {
-            string query =string.Format( "Delete  From BaiDang Where ID = {0}",ID);
+            string query =string.Format("Delete From BaiDang Where ID = {0}", ID);
             dbConection.Process(query);
             new ShowDialogCustom("Thành công", ShowDialogCustom.OK).Show();
         }

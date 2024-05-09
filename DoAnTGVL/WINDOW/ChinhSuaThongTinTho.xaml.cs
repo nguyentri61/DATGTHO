@@ -28,6 +28,7 @@ namespace DoAnTGVL.WINDOW
             InitializeComponent();
             this.tho = tho;
             this.DataContext = tho;
+            SetAvatarImage();
         }
         private void btn_close_Click(object sender, RoutedEventArgs e)
         {
@@ -38,6 +39,43 @@ namespace DoAnTGVL.WINDOW
         {
             daotho.Sua(tho);
             new ShowDialogCustom("Cập nhật thành công", ShowDialogCustom.OK).Show();
+        }
+
+        private void SetAvatarImage()
+        {
+            string imagePath;
+
+            switch (tho.LinhVuc)
+            {
+                case "Gia Sư":
+                    imagePath = "pack://application:,,,/image/male-teacher.png";
+                    break;
+                case "Sửa nhà":
+                    imagePath = "pack://application:,,,/image/engineer.png";
+                    break;
+                case "Bảo trì":
+                    imagePath = "pack://application:,,,/image/worker.png";
+                    break;
+                case "Điện tử":
+                    imagePath = "pack://application:,,,/image/mechanic.png";
+                    break;
+                case "Điện nước":
+                    imagePath = "pack://application:,,,/image/plumber.png";
+                    break;
+                case "Điện lạnh":
+                    imagePath = "pack://application:,,,/image/plumber.png";
+                    break;
+                default:
+                    imagePath = "pack://application:,,,/image/man.jpg";
+                    break;
+            }
+
+            BitmapImage bitmap = new BitmapImage();
+            bitmap.BeginInit();
+            bitmap.UriSource = new Uri(imagePath);
+            bitmap.EndInit();
+
+            imageAva.ImageSource = bitmap;
         }
     }
 }

@@ -462,9 +462,7 @@ namespace DoAnTGVL.DAO
                         if (sl != 0)
                             dgId.Add(tong/sl);
                         dgId.Add(idTho);
-                        
-                        return dgId;
-                                  
+                        return dgId;      
                     }
                     dataReader.Close();
                 }

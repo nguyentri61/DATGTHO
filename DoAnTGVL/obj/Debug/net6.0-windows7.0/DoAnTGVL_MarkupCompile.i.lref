@@ -1,47 +1,10 @@
-﻿C:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\obj\Debug\net6.0-windows7.0\GeneratedInternalTypeHelper.g.i.cs
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\App.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\MainWindow.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCDanhGia.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCDanhSachCongViec.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCDanhSachTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCDSBaiDangUser.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCDSCongViecTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCDSDanhGiaTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCDSThue.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCDSThueTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCHienThongTinTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCHome.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCQuanLyBaiDang.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCSuaCV.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCTBaoNhanViec.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCTBaoThue.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCThongKe.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCThongKeCV.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCThongKeTN.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCThongTinTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCThongTinUser.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCThoPhanHoi.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCThueTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCTienDoViecTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UCTimViec.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\UControls\UserPopup.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ChinhSuaBaiDang.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ChinhSuaDSCongViec.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ChinhSuaThongTinTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ChiTietCongViec.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ChiTietLichSuThueTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ChiTietLichSuViecTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ChiTietTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ChiTietThongBao.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\DangBai.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\DanhGiaTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\LichBan.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ProfileTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ShowDialogCustom.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ThoHoanThanhCongViec.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ThoMain.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ThongBaoNhanTho.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\ThongBaoThue.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\UserMain.xaml;;
-FC:\Users\DELL 3500\Desktop\Winform\DATGTHO\DoAnTGVL\WINDOW\XacNhanThueTho.xaml;;
+﻿
+
+FD:\WinForm\DoAnTGVL\DoAnTGVL\UControls\UCDSCongViecTho.xaml;;
+FD:\WinForm\DoAnTGVL\DoAnTGVL\UControls\UCDSDanhGiaTho.xaml;;
+FD:\WinForm\DoAnTGVL\DoAnTGVL\UControls\UCHienThongTinTho.xaml;;
+FD:\WinForm\DoAnTGVL\DoAnTGVL\UControls\UCQuanLyBaiDang.xaml;;
+FD:\WinForm\DoAnTGVL\DoAnTGVL\UControls\UCThueTho.xaml;;
+FD:\WinForm\DoAnTGVL\DoAnTGVL\UControls\UCTienDoViecTho.xaml;;
+FD:\WinForm\DoAnTGVL\DoAnTGVL\UControls\UCTimViec.xaml;;
 

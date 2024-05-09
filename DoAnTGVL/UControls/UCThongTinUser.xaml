@@ -69,13 +69,12 @@
                     </GroupBox>
 
                     <GroupBox Header="Ngày sinh" FontSize="20" Margin="0 25 0 0" BorderBrush="#fffbd5" Style="{DynamicResource d}" Foreground="#fffbd5">
-                        <DatePicker Margin="5 5 0 5" FontSize="20" Height="50" Width="320" BorderThickness="0" Foreground="Black" Padding="2"
-                                        SelectedDate="{Binding Dob, StringFormat={}{0:mm/dd/yyy} ,Converter={StaticResource StringToDateConverter}, UpdateSourceTrigger=PropertyChanged}"
-                                            Style="{StaticResource MaterialDesignFloatingHintDatePicker}"  />
+                        <DatePicker Width="300" Height="40" FontSize="20" BorderThickness="0" BorderBrush="Transparent" Foreground="Black" FontWeight="SemiBold" Margin="5 5 0 5" HorizontalAlignment="Left"
+                                    SelectedDate="{Binding DateThue, StringFormat={}{0:MM/dd/yyy}, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, Converter={StaticResource StringToDateConverter}}"/>
                     </GroupBox>
                 </StackPanel>
 
-                <Button Content="Chỉnh sửa" FontSize="28" Width="180" Height="65" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,579,0,0"  Click="btn_ChinhSua_Click"/>
+                <Button Content="Chỉnh sửa" FontSize="28" Width="180" Height="65" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,607,0,0"  Click="btn_ChinhSua_Click"/>
             </Grid>
             <Ellipse Width="500" Height="500" VerticalAlignment="Center" Fill="#A367B1" Margin="1182,0,-382,0" Opacity="0.4"/>
             <Ellipse Width="500" Height="500" VerticalAlignment="Bottom" Fill="#FFD1E3" Margin="-377,0,1177,35" Opacity="0.4"/>
