@@ -130,7 +130,7 @@
                 </Grid.ColumnDefinitions>
 
                 <WrapPanel Grid.Column="0" Orientation="Vertical">
-                    <TextBlock Text="Minh Tri" Foreground="#001E00" FontSize="15" FontWeight="DemiBold"/>
+                    <TextBlock Text="{Binding Path= TenUser}" Foreground="#001E00" FontSize="15" FontWeight="DemiBold"/>
                     <TextBlock Text="Tên" Margin="0 2 0 0" Foreground="#9AAA97" FontSize="12"/>
                 </WrapPanel>
 

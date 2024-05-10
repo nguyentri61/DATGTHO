@@ -124,7 +124,8 @@ namespace DoAnTGVL.DAO
                             date: (DateTime)dataReader["Date"],
                             kinhNghiem: dataReader["KinhNghiem"].ToString(),
                             yeuCau: dataReader["YeuCau"].ToString(),
-                            ghiChu: dataReader["GhiChu"].ToString());       
+                            ghiChu: dataReader["GhiChu"].ToString());
+                        baidang.TenUser = dataReader["HoTen"].ToString();
                         DSbaidang.Add(baidang);
                     }
                     dataReader.Close();

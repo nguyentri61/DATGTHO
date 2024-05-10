@@ -52,7 +52,7 @@ namespace DoAnTGVL.UControls
 
             switch (tho.LinhVuc)
             {
-                case "Gia Sư":
+                case "Gia sư":
                     imagePath = "pack://application:,,,/image/male-teacher.png";
                     break;
                 case "Sửa nhà":

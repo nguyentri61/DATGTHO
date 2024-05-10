@@ -56,11 +56,11 @@
                 <Border CornerRadius="19" Background="#F2F7F2" BorderThickness="2" VerticalAlignment="Center" HorizontalAlignment="Center">
                     <ComboBox BorderThickness="0" Padding="40 0 0 0" FontSize="15" Width="150" Height="40" Foreground="#5E6D55" FontWeight="SemiBold" VerticalAlignment="Center" HorizontalAlignment="Center"
                               Text="{Binding Path=LinhVuc, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
-                        <ComboBoxItem Content="Điện Nước"/>
-                        <ComboBoxItem Content="Điện Tử"/>
-                        <ComboBoxItem Content="Bảo Trì"/>
-                        <ComboBoxItem Content="Sửa Nhà"/>
-                        <ComboBoxItem Content="Gia Sư"/>
+                        <ComboBoxItem Content="Điện nước"/>
+                        <ComboBoxItem Content="Điện tử"/>
+                        <ComboBoxItem Content="Bảo trì"/>
+                        <ComboBoxItem Content="Sửa nhà"/>
+                        <ComboBoxItem Content="Gia sư"/>
                     </ComboBox>
                 </Border>
                 <Border Margin="225 0 0 0" CornerRadius="19" Background="#F2F7F2" BorderThickness="2" VerticalAlignment="Center" HorizontalAlignment="Center">
@@ -70,12 +70,14 @@
                         <ComboBoxItem Content="Thủ Đức" />
                         <ComboBoxItem Content="Quận 1" />
                         <ComboBoxItem Content="Quận 2" />
+                        <ComboBoxItem Content="Quận 3" />
                         <ComboBoxItem Content="Quận 4" />
                         <ComboBoxItem Content="Quận 5" />
                         <ComboBoxItem Content="Quận 6" />
                         <ComboBoxItem Content="Quận 7" />
                         <ComboBoxItem Content="Quận 8" />
                         <ComboBoxItem Content="Quận 9" />
+                        <ComboBoxItem Content="Quận 10" />
                         <ComboBoxItem Content="Bình Thạnh" />
                         <ComboBoxItem Content="Tân Bình" />
                     </ComboBox>

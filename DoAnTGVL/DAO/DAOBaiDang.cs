@@ -27,11 +27,11 @@ namespace DoAnTGVL.DAO
         }
         public List<BaiDang> FilterBaiDang(FilterBaiDang filterBaiDang, Tho tho)
         {
-            string query = "Select * From BaiDang";
+            string query = "Select BaiDang.*,[User].HoTen From BaiDang, [User] where BaiDang.IDUser = [User].ID";
             bool exist = false;
             if (!filterBaiDang.checkemp())
             {
-                query += " Where";
+                query += " and";
                 if (filterBaiDang.KhuVuc != "")
                 {
                     query += string.Format(" KhuVuc = N'{0}'", filterBaiDang.KhuVuc);
@@ -58,7 +58,7 @@ namespace DoAnTGVL.DAO
 
         public List<BaiDang> FilterBaiDang(FilterBaiDang filterBaiDang, User user)
         {
-            string query = string.Format("Select * From BaiDang Where IDUser = {0}", user.Id);
+            string query = string.Format("Select BaiDang.*,[User].HoTen From BaiDang, [User] where BaiDang.IDUser = [User].ID and BaiDang.IDUser ={0} ", user.Id);
             if (!filterBaiDang.checkemp())
             {
                 if (filterBaiDang.KhuVuc != "")
