@@ -97,7 +97,7 @@
                                              FontSize="15"
                                             materialDesign:HintAssist.Hint="Giới tính"
                                             Height="30" Padding="5" Width="220">
-                                    <ComboBoxItem Content="Nam" />
+                                    <ComboBoxItem Content="Nam" IsSelected="True"/>
                                     <ComboBoxItem Content="Nữ" />
                                 </ComboBox>
                             </Grid>
@@ -130,7 +130,7 @@
                             <Grid Grid.Column="1" Height="30" Width="250" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="25 15 0 0">
                                 <materialDesign:PackIcon Kind="Magic" Height="24" Width="25" VerticalAlignment="Center"/>
                                 <ComboBox HorizontalAlignment="Right" VerticalAlignment="Bottom"
-                                 FontSize="15" Text="{Binding Kinhnghiem, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                 FontSize="15" Text="{Binding KinhNghiem, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
                                 materialDesign:HintAssist.Hint="Kinh nghiệm"
                                 Height="30" Padding="5" Width="220">
                                     <ComboBoxItem Content="Ít hơn 1 năm" />
@@ -146,11 +146,11 @@
                                             Text="{Binding LinhVuc, UpdateSourceTrigger=PropertyChanged}"
                                             materialDesign:HintAssist.Hint="Lĩnh vực"
                                             Height="30" Padding="5" Width="220">
-                                    <ComboBoxItem Content="Gia Sư" />
-                                    <ComboBoxItem Content="Sửa Nhà" />
-                                    <ComboBoxItem Content="Bảo Trì" />
-                                    <ComboBoxItem Content="Điện Tử" />
-                                    <ComboBoxItem Content="Điện Nước" />
+                                    <ComboBoxItem Content="Gia sư" />
+                                    <ComboBoxItem Content="Sửa nhà" />
+                                    <ComboBoxItem Content="Bảo trì" />
+                                    <ComboBoxItem Content="Điện tử" />
+                                    <ComboBoxItem Content="Điện nước" />
                                 </ComboBox>
                             </Grid>
                         </Grid>
