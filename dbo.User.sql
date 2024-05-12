@@ -9,7 +9,7 @@
 );
 
 
-
+DBCC CHECKIDENT ('[User]', RESEED, 0)
 Insert into [User] Values ( N'Huỳnh Việt Đan', '099900134386', '08765678542', '2016-10-23', N'Quận 1')
 Insert into [User] Values ( N'Nguyễn Phan Minh Trí', '071200134386', '08765678542', '2005-11-20', N'Quận 2')
 Insert into [User] Values ( N'Doãn Thế Hùng', '020934623391', '08765678542', '2002-01-5', N'Quận 3')
