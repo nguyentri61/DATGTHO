@@ -214,8 +214,6 @@ Mode="PrimaryLight" Background="#FFF4F4F4">
                     Content="600.000đ - 800.000đ" />
                         <ComboBoxItem
                     Content="Trên 800.000đ" />
-                        <ComboBoxItem
-                    Content="Tất cả" />
                     </ComboBox>
                     <CheckBox x:Name="chboxYeuThich"
     materialDesign:CheckBoxAssist.CheckBoxSize="30" Margin="125,0,0,0"
