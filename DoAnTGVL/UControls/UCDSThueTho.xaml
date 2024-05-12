@@ -9,16 +9,16 @@
              d:DesignHeight="700" d:DesignWidth="1300">
     
     <Grid>
-        
-        <TabControl x:Name="TabTrangThai">
 
-            <TabItem x:Name="Tabcxn" Header="Chờ xác nhận" Loaded="Tab_Loaded">
+        <TabControl x:Name="TabTrangThai" Loaded="Tab_Loaded">
+
+            <TabItem x:Name="Tabcxn" Header="Chờ xác nhận" >
                 <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.ColumnSpan="2">
                     <StackPanel x:Name="staChoXacNhan"></StackPanel>
                 </ScrollViewer>
             </TabItem>
 
-            <TabItem x:Name="Tabcth" Header="Chưa thực hiện" Loaded="Tab_Loaded">
+            <TabItem x:Name="Tabcth" Header="Chưa thực hiện" >
                 <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.ColumnSpan="2">
                     <StackPanel x:Name="staChuaThucHien"></StackPanel>
                 </ScrollViewer>

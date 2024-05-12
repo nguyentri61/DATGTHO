@@ -201,7 +201,6 @@ namespace DoAnTGVL.DAO
                     {
                         CongViec data = new CongViec();                        
                         data.ID = dataReader.GetInt32("ID");
-                        
                         data.IDUser = dataReader.GetInt32("IDUser");
                         data.IDTho = dataReader.GetInt32("IDTho");
                         data.TieuDe = dataReader["TieuDe"].ToString();
