@@ -34,7 +34,7 @@ namespace DoAnTGVL.DAO
                 query += " and";
                 if (filterBaiDang.KhuVuc != "")
                 {
-                    query += string.Format(" KhuVuc = N'{0}'", filterBaiDang.KhuVuc);
+                    query += string.Format(" BaiDang.KhuVuc = N'{0}'", filterBaiDang.KhuVuc);
                     exist = true;
                 }
                 if (filterBaiDang.KinhNghiem != "")

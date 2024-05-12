@@ -15,7 +15,7 @@ DBCC CHECKIDENT ('Tho', RESEED, 0)
 
 INSERT INTO Tho 
 VALUES 
-(N'Nguyễn Ngọc Hoàng', '099900134386', '08765678542', '2016-10-23', N'Quận 1', N'Điện lạnh', N'Sửa máy lạnh', REPLACE(N'1 năm', N'1 năm', N'1 - 2 năm'), 500000, 4.4),
+(N'Nguyễn Ngọc Hoàng', '099900134386', '08765678542', '2016-10-23', N'Quận 1', N'Điện tử', N'Sửa máy lạnh', REPLACE(N'1 năm', N'1 năm', N'1 - 2 năm'), 500000, 4.4),
 (N'Lê Hoài An', '071200134386', '08765678542', '2005-11-20', N'Quận 2', N'Điện tử', N'Sửa tivi', REPLACE(N'1 - 2 năm', N'1 - 2 năm', N'1 - 2 năm'), 552000, 4.5),
 (N'Trịnh Phúc Bảo', '020934623391', '08765678542', '2002-01-5', N'Quận 3', N'Điện lạnh', N'Sửa máy giặt', REPLACE(N'3 năm', N'3 năm', N'Trên 3 năm'), 580000, 5),
 (N'Võ Minh Hiếu', '087514705223', '08765678542', '1999-9-8', N'Quận 4', N'Sửa nhà', N'Sơn tường', REPLACE(N'2 năm', N'2 năm', N'2 - 3 năm'), 500000, 3),

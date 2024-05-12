@@ -37,6 +37,7 @@ namespace DoAnTGVL.UControls
         private void btn_XemChiTiet_Click(object sender, RoutedEventArgs e)
         {
             ChiTietCongViec chiTietCV = new ChiTietCongViec(baidang, tho);
+            chiTietCV.btn_Commfirm.Visibility= Visibility.Collapsed;    
             chiTietCV.Show();
         }
 

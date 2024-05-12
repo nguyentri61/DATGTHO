@@ -31,6 +31,7 @@ namespace DoAnTGVL.UControls
             InitializeComponent();
             this.DataContext = tho;
             this.tho = tho;
+            this.danhgia.Text=tho.DanhGia.ToString("0.0");
             DataContext = filterDanhGia;
             bUSDanhGiaTho.CreateWrapDanhGia(tho,filterDanhGia, this);
         }
